@@ -13,7 +13,7 @@ pool:
 steps:
 - task: CopyFiles@2
   inputs:
-    SourceFolder: '/feed'
+    SourceFolder: 'feed'
     Contents: 'feed.xml'
     TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
