@@ -1,4 +1,5 @@
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" 
+    xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Azure Flash News</title>
         <link>http://www.azureflashnews.com</link>
@@ -17,7 +18,7 @@
         <itunes:category text="Technology" />
         <itunes:keywords>Microsoft, Azure, News, Microsoft Azure, Azure Flash News</itunes:keywords>
         <itunes:explicit>no</itunes:explicit>
-        <lastBuildDate>Fri, 16 Aug 2019 12:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2019 01:24:00 GMT</lastBuildDate>
         <item>
             <title>AFN: 2017-10-06</title>
             <itunes:episode>1</itunes:episode>
@@ -85,7 +86,7 @@
         </item>
         <item>
             <title>AFN: 2017-11-17</title>
-            <itunes:episode>6</itunes:episode>
+            <itunes:episode>7</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2017-11-17</itunes:subtitle>
             <itunes:summary>The week's news about Azure. November 17th, 2017.</itunes:summary>
@@ -98,7 +99,7 @@
         </item>
         <item>
             <title>AFN: 2017-12-01</title>
-            <itunes:episode>7</itunes:episode>
+            <itunes:episode>8</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2017-12-01</itunes:subtitle>
             <itunes:summary>The week's news about Azure. December 1st, 2017.</itunes:summary>
@@ -111,7 +112,7 @@
         </item>
         <item>
             <title>AFN: 2017-12-08</title>
-            <itunes:episode>8</itunes:episode>
+            <itunes:episode>9</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2017-12-08</itunes:subtitle>
             <itunes:summary>The week's news about Azure. December 8th, 2017.</itunes:summary>
@@ -124,7 +125,7 @@
         </item>
         <item>
             <title>AFN: 2017-12-15</title>
-            <itunes:episode>9</itunes:episode>
+            <itunes:episode>10</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2017-12-15</itunes:subtitle>
             <itunes:summary>We welcome guest host, Doug Splinter to discuss with Rick about Azure Active Directory and how we cross over between Azure applications and Office 365. Also some news around subscription level budget APIs, as well as the General Availability of the Azure Bot Service and the Language Understanding.</itunes:summary>
@@ -137,7 +138,7 @@
         </item>
         <item>
             <title>AFN: 2018-01-05</title>
-            <itunes:episode>10</itunes:episode>
+            <itunes:episode>11</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-01-05</itunes:subtitle>
             <itunes:summary>Today we discuss the new CPU vulnerability and the architectures that can protect you from outages due to reboots, the new asynchronous refresh API for Azure Analysis Services, an article from the Azure CAT team about designing, building, and operating microservices on Azure, the ability to build richer apps with your time series data on Azure.</itunes:summary>
@@ -150,7 +151,7 @@
         </item>
         <item>
             <title>AFN: 2018-01-12</title>
-            <itunes:episode>11</itunes:episode>
+            <itunes:episode>12</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-01-12</itunes:subtitle>
             <itunes:summary>Today we discuss a way to auto-scale IoT capabilities, Azure Security Center's integration with App Gateway WAF, the new Linux Foundation course on Administering Linux in Azure, and the tried and true architecture - running web apps in multiple geographic locations.</itunes:summary>
@@ -163,7 +164,7 @@
         </item>
         <item>
             <title>AFN: 2018-01-19</title>
-            <itunes:episode>12</itunes:episode>
+            <itunes:episode>13</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-01-19</itunes:subtitle>
             <itunes:summary>Today we had a guest host, Todd Kitta. We discussed Azure Security Center and custom security assessments, Azure CLI 2.0 IoT extension, and Azure Data Factory visual tools.</itunes:summary>
@@ -176,7 +177,7 @@
         </item>
         <item>
             <title>AFN: 2018-02-09</title>
-            <itunes:episode>13</itunes:episode>
+            <itunes:episode>14</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-02-09</itunes:subtitle>
             <itunes:summary>Today Rick and Mark discuss new Video Indexer capabilities, some new stuff with serverless IoT, GA for Virtual Network Service Endpoints, Ansible for Azure, GA for Event Grid, a new updated Azure developer's guide e-book, Azure Bootcamp, Azure Security Center alerts to SEIM tools, new Stream Analytics capabilities, and zone redundant Virtual Machine Sets.</itunes:summary>
@@ -189,7 +190,7 @@
         </item>
         <item>
             <title>AFN: 2018-02-16</title>
-            <itunes:episode>14</itunes:episode>
+            <itunes:episode>15</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-02-16</itunes:subtitle>
             <itunes:summary>The week's news about Azure. February 16th, 2018.</itunes:summary>
@@ -202,7 +203,7 @@
         </item>
         <item>
             <title>AFN: 2018-02-23</title>
-            <itunes:episode>15</itunes:episode>
+            <itunes:episode>16</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2018-02-23</itunes:subtitle>
             <itunes:summary>The week's news about Azure. February 23rd, 2018.</itunes:summary>
@@ -215,7 +216,7 @@
         </item>
         <item>
             <title>AFN: 2017-11-10</title>
-            <itunes:episode>16</itunes:episode>
+            <itunes:episode>6</itunes:episode>
             <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
             <itunes:subtitle>AFN: 2017-11-10</itunes:subtitle>
             <itunes:summary>The week's news about Azure. November 10th, 2017.</itunes:summary>
@@ -952,6 +953,19 @@
             <guid>http://affinvitestorage.blob.core.windows.net/episodes/AFN-072.m4a</guid>
             <pubDate>Fri, 16 Aug 2019 18:24:00 GMT</pubDate>
             <itunes:duration>33:15</itunes:duration>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+        <item>
+            <title>AFN: 2019-08-23</title>
+            <itunes:episode>73</itunes:episode>
+            <itunes:author>Rick Weyenberg and Mark Garner</itunes:author>
+            <itunes:subtitle>AFN: 2019-08-23</itunes:subtitle>
+            <itunes:summary>This week's news in Azure - August 23rd, 2019.</itunes:summary>
+            <itunes:image href="http://affinvitestorage.blob.core.windows.net/aff/AFN-itunes.jpg" />
+            <enclosure type="audio/x-m4a" url="http://affinvitestorage.blob.core.windows.net/episodes/AFN-073.m4a" length="21473470" />
+            <guid>http://affinvitestorage.blob.core.windows.net/episodes/AFN-073.m4a</guid>
+            <pubDate>Fri, 23 Aug 2019 18:24:00 GMT</pubDate>
+            <itunes:duration>32:50</itunes:duration>
             <itunes:explicit>no</itunes:explicit>
         </item>
     </channel>

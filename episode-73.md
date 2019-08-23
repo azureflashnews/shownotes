@@ -1,13 +1,14 @@
 # Azure Flash News Episode #73 - 8/23/2019
 
 ## Contacts
-* Rick Weyenberg  email: rickwey@microsoft.com twitter: @codeboarder
-* Mark Garner email: mgarner@microsoft.com twitter: @mgarner
+* Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
+* Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
 * website: www.azureflashnews.com
-* twitter: @azureflashnews
+* twitter: [@azureflashnews](https://www.twitter.com/azureflashnews)
 * iTunes: aka.ms/afn-iTunes
 * Google Play: aka.ms/afn-google
 * Stitcher: aka.ms/afn-stitcher
+* Youtube: [Azure Flash News on Youtube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
 ## Preview of custom content in Azure Policy guest configuration
 https://azure.microsoft.com/en-us/blog/preview-of-custom-content-in-azure-policy-guest-configuration/
