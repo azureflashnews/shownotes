@@ -16,7 +16,7 @@ steps:
     rootFolderOrFile: 'feed/feed.xml'
     includeRootFolder: true
     archiveType: 'zip'
-    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/feed.zip'
     replaceExistingArchive: true
 - task: CopyFiles@2
   inputs:
