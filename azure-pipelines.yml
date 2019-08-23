@@ -18,11 +18,6 @@ steps:
     archiveType: 'zip'
     archiveFile: '$(Build.ArtifactStagingDirectory)/feed.zip'
     replaceExistingArchive: true
-- task: CopyFiles@2
-  inputs:
-    SourceFolder: 'feed'
-    Contents: 'feed.xml'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
 
 - task: PublishBuildArtifacts@1
   inputs:
