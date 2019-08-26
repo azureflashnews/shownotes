@@ -11,11 +11,13 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- task: CopyFiles@2
+- task: ArchiveFiles@2
   inputs:
-    SourceFolder: 'feed'
-    Contents: 'feed.xml'
-    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+    rootFolderOrFile: 'feed/feed.xml'
+    includeRootFolder: true
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/feed.zip'
+    replaceExistingArchive: true
 
 - task: PublishBuildArtifacts@1
   inputs:
