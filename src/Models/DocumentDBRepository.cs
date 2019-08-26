@@ -14,7 +14,7 @@ namespace produce.Models
     {
 
         private static readonly string Endpoint = "https://affrss.documents.azure.com:443/";
-        private static readonly string Key = "CJjeho7E0nhMTXM754zl0lJn0cvEZsDaKpIv1owiBWGZgDBAXp0RRti2TC5oN0WLwvf7Gyj7LsGIavblPtjRWQ==";
+        private static readonly string Key = "";
         private static readonly string DatabaseId = "AFFRSS";
         private static readonly string CollectionId = "rss";
         private static DocumentClient client;

@@ -1,5 +1,7 @@
 # Azure Flash News Episode #73 - 8/23/2019
 
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/K6FCRd9_Q00/0.jpg)](http://www.youtube.com/watch?v=K6FCRd9_Q00 "Azure Flash News: Episode 73")
+
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
