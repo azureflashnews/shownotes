@@ -60,7 +60,6 @@ namespace produce.Models
             {
                 throw (e);
             }
-            return null;
         }
 
         public static async Task<Document> CreateItemAsync(T item)

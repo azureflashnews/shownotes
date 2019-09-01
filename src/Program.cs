@@ -34,7 +34,7 @@ namespace produce
             ProcessAndUploadVideo();
 
             //write this new record to DocDB
-            await WriteToDocDB();
+            // await WriteToDocDB();
 
             //use DocDB to write the RSS Feed
             await GetRssFeed();
@@ -49,10 +49,10 @@ namespace produce
 
         }
 
-        static private async Task WriteToDocDB()
-        {
-            Console.WriteLine("Hello World");
-        }
+        // static private async Task WriteToDocDB()
+        // {
+        //     Console.WriteLine("Hello World");
+        // }
 
         static private void ProcessAndUploadVideo()
         {
@@ -151,7 +151,7 @@ namespace produce
                     file.Close();
                 }
 
-                string storageConnectionString = "DefaultEndpointsProtocol=https;AccountName=affinvitestorage;AccountKey=8x+mpsjWrpa6+DTHHD/glvqxKkK4RlcSDQf+syM4C2xmD5tUsrxosV2niKySxF4GEACUoO7HrN1TSmBEfIaQDg==;EndpointSuffix=core.windows.net";
+                string storageConnectionString = "";
 
                 CloudStorageAccount account = CloudStorageAccount.Parse(storageConnectionString);
                 CloudBlobClient serviceClient = account.CreateCloudBlobClient();
