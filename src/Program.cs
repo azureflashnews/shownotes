@@ -24,7 +24,7 @@ namespace produce
         {
             ShowNumberInt = 75;
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
-            ShowDate = DateTime.Parse("8/6/2019");
+            ShowDate = DateTime.Parse("9/6/2019");
 
             Config.CosmosDBKey = "";
             Config.StorageAccountConnectionString = "";
