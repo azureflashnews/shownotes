@@ -14,7 +14,7 @@ namespace produce.Models
     {
 
         private static readonly string Endpoint = "https://affrss.documents.azure.com:443/";
-        private static readonly string Key = "";
+        //private static readonly string Key = "";
         private static readonly string DatabaseId = "AFFRSS";
         private static readonly string CollectionId = "rss";
         private static DocumentClient client;
@@ -101,7 +101,7 @@ namespace produce.Models
                 //connectionPolicy.PreferredLocations.Add(LocationNames.WestUS2); // first preference
                 //connectionPolicy.PreferredLocations.Add(LocationNames.SouthCentralUS); // second preference
 
-                client = new DocumentClient(new Uri(Endpoint), Key, connectionPolicy);
+                client = new DocumentClient(new Uri(Endpoint), Config.CosmosDBKey, connectionPolicy);
             }
             CreateDatabaseIfNotExistsAsync().Wait();
             CreateCollectionIfNotExistsAsync().Wait();

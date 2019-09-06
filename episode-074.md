@@ -10,7 +10,7 @@
 * iTunes: aka.ms/afn-iTunes
 * Google Play: aka.ms/afn-google
 * Stitcher: aka.ms/afn-stitcher
-* Youtube: [Azure Flash News on Youtube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
+* Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
 
 ## Azure Load Balancer becomes more efficient

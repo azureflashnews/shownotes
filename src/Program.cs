@@ -22,6 +22,9 @@ namespace produce
         {
             ShowNumber = args[0];
             RawFilePathAndName = args[1];
+            Config.CosmosDBKey = "";
+            Config.StorageAccountConnectionString = "";
+
             DoWork().GetAwaiter().GetResult();
         }
 
@@ -151,9 +154,7 @@ namespace produce
                     file.Close();
                 }
 
-                string storageConnectionString = "";
-
-                CloudStorageAccount account = CloudStorageAccount.Parse(storageConnectionString);
+                CloudStorageAccount account = CloudStorageAccount.Parse(Config.StorageAccountConnectionString);
                 CloudBlobClient serviceClient = account.CreateCloudBlobClient();
 
                 // Create container. Name must be lower case.
