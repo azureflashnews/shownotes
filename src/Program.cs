@@ -13,17 +13,23 @@ namespace produce
 {
     class Program
     {
-        private static string ShowNumber;
+        private static int ShowNumberInt;
+        private static string ShowNumberString;
+        private static DateTime ShowDate;
         private static string RawFilePathAndName;
         private static string workingDirectory = "c:\\dev\\shownotes\\working\\";
         private static string feedDirectory = "c:\\dev\\shownotes\\feed\\";
 
         static void Main(string[] args)
         {
-            ShowNumber = args[0];
-            RawFilePathAndName = args[1];
+            ShowNumberInt = 75;
+            RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
+            ShowDate = DateTime.Parse("8/6/2019");
+
             Config.CosmosDBKey = "";
             Config.StorageAccountConnectionString = "";
+
+            ShowNumberString = String.Concat((ShowNumberInt.ToString().Length < 3 ? "0" : ""), ShowNumberInt.ToString());
 
             DoWork().GetAwaiter().GetResult();
         }
@@ -37,7 +43,7 @@ namespace produce
             ProcessAndUploadVideo();
 
             //write this new record to DocDB
-            // await WriteToDocDB();
+            await WriteToDocDB();
 
             //use DocDB to write the RSS Feed
             await GetRssFeed();
@@ -52,19 +58,54 @@ namespace produce
 
         }
 
-        // static private async Task WriteToDocDB()
-        // {
-        //     Console.WriteLine("Hello World");
-        // }
+        static private async Task WriteToDocDB()
+        {
+            Feed feed = await Feed.GetFeedAsync();
+            feed.LastBuildDate = DateTime.UtcNow.ToShortDateString() + " " + DateTime.UtcNow.ToShortTimeString();
+            await feed.Persist();
+
+            string enclosureLength = System.IO.File.ReadAllText(Path.Combine(workingDirectory + "enclosureLength.txt"));
+            string duration = System.IO.File.ReadAllText(Path.Combine(workingDirectory + "duration.txt"));
+
+            Item item = new Item();
+            item.EnclosureLength = enclosureLength;
+            item.EnclosureType = "audio/x-m4a";
+            item.EnclosureURL = "http://affinvitestorage.blob.core.windows.net/episodes/AFN-" + ShowNumberString + ".m4a";
+            item.GUID = "http://affinvitestorage.blob.core.windows.net/episodes/AFN-" + ShowNumberString + ".m4a";
+            item.PubDate = ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString() + "T12:30:00.0000000Z";
+            item.Title = "AFN: " + ShowDate.ToShortDateString();
+            item.Type = "item";
+            item.iTunesDuration = duration;
+            item.iTunesEpisodeNumber = ShowNumberInt.ToString();
+            item.iTunesExplicit = "no";
+            item.iTunesSubtitle = "AFN: " + ShowDate.ToShortDateString();
+            item.iTunesSummary = "This week's news in Azure: " + ShowDate.ToLongDateString();
+            item.id =  "AFN: " + ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString();
+            await item.Persist();
+
+            // {
+            //     "EnclosureLength": "23498134",
+            //     "EnclosureType": "",
+            //     "EnclosureURL": ",
+            //     "GUID": "http://affinvitestorage.blob.core.windows.net/episodes/AFN-074.m4a",
+            //     "PubDate": "2019-08-30T15:32:28.1064561Z",
+            //     "iTunesEpisodeNumber": "74",
+            //     "Title": "AFN: 2019-08-30",
+            //     "Type": "item",
+            //     "iTunesDuration": "35:45",
+            //     "iTunesExplicit": "no",
+            //     "iTunesSubtitle": "AFN: 2019-08-30",
+            //     "iTunesSummary": "The week's news about Azure: August 30th, 2019.",
+            //     "id": "AFN: 2019-08-30",
+            // }
+
+            Console.WriteLine("Hello World");
+        }
 
         static private void ProcessAndUploadVideo()
         {
             try
             {
-
-
-                ShowNumber = String.Concat((ShowNumber.Length < 3 ? "0" : ""), ShowNumber);
-
                 string[] fileList = Directory.GetFiles(workingDirectory);
 
                 // Empty Working Directory
@@ -74,7 +115,7 @@ namespace produce
                 }
 
                 File.Copy(RawFilePathAndName, Path.Combine(workingDirectory, Path.GetFileName(RawFilePathAndName)));
-                string newFileNameAndPath = workingDirectory + "AFN-" + ShowNumber + ".m4a";
+                string newFileNameAndPath = workingDirectory + "AFN-" + ShowNumberString + ".m4a";
                 using (var process = new Process())
                 {
                     string tmp = String.Format("-i \"" + workingDirectory + Path.GetFileName(RawFilePathAndName) + "\" -vn -c:a copy \"" + newFileNameAndPath + "\"");

@@ -21,15 +21,24 @@ namespace produce.Models
         public string iTunesDuration;
         public string iTunesExplicit;
         public string iTunesEpisodeNumber;
+        private bool IsPersisted;
 
         public async Task Persist()
         {
-            await DocumentDBRepository<Item>.UpdateItemAsync(id, this);
+            if (this.IsPersisted)
+                await DocumentDBRepository<Item>.UpdateItemAsync(id, this);
+            else   
+                await DocumentDBRepository<Item>.CreateItemAsync(this);
+
         }
 
         public static async Task<IEnumerable<Item>> GetAllItemsAsync()
         {
             var items = await DocumentDBRepository<Item>.GetItemsAsync(d => d.Type == "item");
+            foreach (Item item in items)
+            {
+                item.IsPersisted = true;
+            }
             return items;
         }
     }

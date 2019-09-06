@@ -19,7 +19,7 @@ namespace produce.Models
             await DocumentDBRepository<Feed>.UpdateItemAsync(id, this);
         }
 
-        public static async Task<Feed> GetFeed()
+        public static async Task<Feed> GetFeedAsync()
         {
             var feedRecords = await DocumentDBRepository<Feed>.GetItemsAsync(d => d.Type == "channel");
             var feed = feedRecords.First();
@@ -28,7 +28,7 @@ namespace produce.Models
 
         public static async Task<string> EmitRssAsync()
         {
-            var feed = await Feed.GetFeed();
+            var feed = await Feed.GetFeedAsync();
 
             // Create an XmlWriterSettings instance.
             XmlWriterSettings oSettings = new XmlWriterSettings();
