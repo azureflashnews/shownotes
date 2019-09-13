@@ -5,11 +5,11 @@
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: @codeboarder
 * Mark Garner email: mgarner@microsoft.com twitter: @mgarner
-* website: www.azureflashnews.com
-* twitter: @azureflashnews
-* iTunes: aka.ms/afn-iTunes
-* Google Play: aka.ms/afn-google
-* Stitcher: aka.ms/afn-stitcher
+* website: [www.azureflashnews.com](www.azureflashnews.com)
+* twitter: [@azureflashnews](https://www.twitter.com/azureflashnews)
+* iTunes: [aka.ms/afn-iTunes](aka.ms/afn-iTunes)
+* Google Play: [aka.ms/afn-google](aka.ms/afn-google)
+* Stitcher: [aka.ms/afn-stitcher](aka.ms/afn-stitcher)
 
 ## Announcing the general availability of Azure Ultra Disk Storage
 https://azure.microsoft.com/en-us/blog/announcing-the-general-availability-of-azure-ultra-disk-storage/
