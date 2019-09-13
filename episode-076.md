@@ -3,7 +3,7 @@
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
-* website: [www.azureflashnews.com](https://www.azureflashnews.com)
+* website: [www.azureflashnews.com](http://www.azureflashnews.com)
 * twitter: [@azureflashnews](https://www.twitter.com/azureflashnews)
 * iTunes: [aka.ms/afn-iTunes](https://aka.ms/afn-iTunes)
 * Google Play: [aka.ms/afn-google](https://aka.ms/afn-google)
