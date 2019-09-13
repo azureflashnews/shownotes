@@ -3,6 +3,9 @@
 This is the repository for all the shownotes from each show.  Feel free to browse this repo for each episode.  You'll also find a console app I use to manage post-production processes.  Feel free to use it if it helps you.
 
 
+## Episode 76
+Shownotes can be found [here](episode-076.md).
+
 ## Episode 75
 Shownotes can be found [here](episode-075.md).
 
