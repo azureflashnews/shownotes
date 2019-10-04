@@ -22,10 +22,10 @@ namespace produce
 
         static void Main(string[] args)
         {
-            ShowNumberInt = 75;
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
-            ShowDate = DateTime.Parse("9/6/2019");
 
+            ShowNumberInt = ;
+            ShowDate = DateTime.Parse("");
             Config.CosmosDBKey = "";
             Config.StorageAccountConnectionString = "";
 
@@ -99,7 +99,7 @@ namespace produce
             //     "id": "AFN: 2019-08-30",
             // }
 
-            Console.WriteLine("Hello World");
+            Console.WriteLine("DocDB Write Complete");
         }
 
         static private void ProcessAndUploadVideo()
