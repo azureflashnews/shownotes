@@ -9,7 +9,5 @@
 ## todo
 
 0. Application should not hold secrets in code.
-1. Application should update docdb before creating feed.xml - including both the feed object and the item object
-2. Application should put the feed.xml in the right place so that when everything is committed to github, feed.xml is automatically deployed to Azure App Services
-3. Application should upload the original video to youtube.com
-4. Application should check for working directory and create if necessary.  c:\afn\working
+1. Application should upload the original video to youtube.com
+2. Application should check for working directory and create if necessary.  c:\afn\working
