@@ -1,4 +1,4 @@
-# Azure Flash News Episode #79 - 11/08/2019
+# Azure Flash News Episode #80 - 11/15/2019
 
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
