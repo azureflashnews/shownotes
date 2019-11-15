@@ -19,6 +19,8 @@ The Azure Container Registry (ACR) team is rolling out the preview of repository
 
 ## GitHub Actions for Azure is now generally available
 
+https://azure.microsoft.com/en-us/blog/github-actions-for-azure-is-now-generally-available/
+
 GitHub Actions make it possible to create simple yet powerful workflows to automate software compilation and delivery integrated with GitHub. These actions, defined in YAML files, allow you to trigger an automated workflow process on any GitHub event, such as code commits, creation of Pull Requests or new GitHub Releases, and more.
 
 ## Save more on Azure usage - Announcing reservations for six more services
