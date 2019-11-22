@@ -7,7 +7,7 @@ namespace produce.Models
 {
     public class Config
     {
-        public static string CosmosDBKey {get;set;}
-        public static string StorageAccountConnectionString {get;set;}
+        public static string CosmosDBKey = "";
+        public static string StorageAccountConnectionString = "";
     }
 }
