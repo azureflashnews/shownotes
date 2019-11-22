@@ -24,11 +24,11 @@ namespace produce
         {
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
 
+            /////////////////////////////////////////////////////////////////////////////////////////
             ShowNumberInt = ;
             ShowDate = DateTime.Parse("");
-            Config.CosmosDBKey = "";
-            Config.StorageAccountConnectionString = "";
-
+            /////////////////////////////////////////////////////////////////////////////////////////
+            
             ShowNumberString = String.Concat((ShowNumberInt.ToString().Length < 3 ? "0" : ""), ShowNumberInt.ToString());
 
             DoWork().GetAwaiter().GetResult();
@@ -80,7 +80,7 @@ namespace produce
             item.iTunesExplicit = "no";
             item.iTunesSubtitle = "AFN: " + ShowDate.ToShortDateString();
             item.iTunesSummary = "This week's news in Azure: " + ShowDate.ToLongDateString();
-            item.id =  "AFN: " + ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString();
+            item.id = "AFN: " + ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString();
             await item.Persist();
 
             // {
