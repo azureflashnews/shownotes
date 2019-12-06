@@ -11,6 +11,9 @@ This is the repository for all the shownotes from each show.  Feel free to brows
 * Google Play: [aka.ms/afn-google](https://aka.ms/afn-google)
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 
+## Episode 81
+Shownotes can be found [here](episode-081.md).
+
 ## Episode 80
 Shownotes can be found [here](episode-080.md).
 
