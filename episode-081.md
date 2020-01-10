@@ -1,5 +1,8 @@
 # Azure Flash News Episode #81 - 12/06/2019
 
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lQ2Dom3FPqY/0.jpg)](https://youtu.be/lQ2Dom3FPqY "Azure Flash News: Episode 81")
+
+
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
