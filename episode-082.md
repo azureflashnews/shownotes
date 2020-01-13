@@ -1,4 +1,4 @@
-# Azure Flash News Episode #81 - 01/10/2019
+# Azure Flash News Episode #82 - 01/10/2019
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/NIXuSAjSYwc/0.jpg)](https://youtu.be/NIXuSAjSYwc "Azure Flash News: Episode 82")
 
