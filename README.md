@@ -2,6 +2,10 @@
 
 This is the repository for all the shownotes from each show.  Feel free to browse this repo for each episode.  You'll also find a console app I use to manage post-production processes.  Feel free to use it if it helps you.
 
+# Congrats to Azure Flash News!
+Azure Flash News has been named one of the top 10 Azure Podcasts by Feedspot!  (January 2020)
+[https://blog.feedspot.com/azure_podcasts/](https://blog.feedspot.com/azure_podcasts/) 
+
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
