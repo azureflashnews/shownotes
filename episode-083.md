@@ -14,6 +14,12 @@
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 * Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
+# Congrats to Azure Flash News!
+Azure Flash News has been named one of the top 10 Azure Podcasts by Feedspot!  (January 2020)
+[https://blog.feedspot.com/azure_podcasts/](https://blog.feedspot.com/azure_podcasts/) 
+
+Player.fm has also [named](https://player.fm/podcasts/azure) Azure Flash News as a top Azure podcast.  Thanks!
+
 ## New Azure blueprint for CIS Benchmark
 
 https://azure.microsoft.com/en-us/blog/new-azure-blueprint-for-cis-benchmark/
