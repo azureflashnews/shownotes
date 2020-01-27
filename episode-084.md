@@ -1,6 +1,6 @@
-# Azure Flash News Episode #83 - 01/17/2019
+# Azure Flash News Episode #84 - 01/24/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/NIXuSAjSYwc/0.jpg)](https://youtu.be/NIXuSAjSYwc "Azure Flash News: Episode 83")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lcPHrKhk_DE/0.jpg)](https://youtu.be/lcPHrKhk_DE "Azure Flash News: Episode 84")
 
 
 ## Contacts
