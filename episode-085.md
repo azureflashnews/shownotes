@@ -1,7 +1,7 @@
 # Azure Flash News Episode #85
  - 02/04/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lcPHrKhk_DE/0.jpg)](https://youtu.be/lcPHrKhk_DE "Azure Flash News: Episode 84")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lcPHrKhk_DE/0.jpg)](https://youtu.be/lcPHrKhk_DE "Azure Flash News: Episode 85")
 
 
 ## Contacts
@@ -42,6 +42,14 @@ https://azure.microsoft.com/en-us/updates/azure-blueprint-for-fedramp-high-is-no
 The Azure Blueprint for FedRAMP High is now available in both Azure Government and Azure Public regions. This is in addition to the Azure Blueprint for FedRAMP Moderate released in November, 2019.
 
 Azure Blueprints is a free service used by cloud architects and central information technology groups to define a set of Azure resources that implements and adheres to an organization's standards, patterns, and requirements. Azure Blueprints makes it possible for development teams to rapidly build and stand up new trusted environments within organizational compliance requirements. The new FedRAMP High blueprint can be applied to new subscriptions as well as existing environments.
+
+## Data Factory Adds Managed Identity Support to Data Flows
+
+https://azure.microsoft.com/en-us/updates/data-factory-adds-managed-identity-support-to-data-flows/
+
+Azure Data Factory users can now build Mapping Data Flows utilizing Managed Identity (formerly MSI) for Azure Data Lake Store Gen 2, Azure SQL Database, and Azure Synapse Analytics (formerly SQL DW). These added security features, combined with ADF's existing support for Azure Trusted Services, will allow you to now build ETL pipelines using ADLS Gen 2 storage accounts as sources and sinks without requiring public endpoints.
+
+Here are documentation links to configure your data factory to use MSI with ADLS Gen 2, SQL DB, and Synapse Analytics (SQL DW).
 
 ## Thanks
 Produced by Emily Mackmiller
