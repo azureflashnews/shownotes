@@ -51,6 +51,12 @@ Azure Data Factory users can now build Mapping Data Flows utilizing Managed Iden
 
 Here are documentation links to configure your data factory to use MSI with ADLS Gen 2, SQL DB, and Synapse Analytics (SQL DW).
 
+## Azure Stream Analytics—Machine learning–based anomaly detection functions
+
+https://azure.microsoft.com/en-us/updates/machine-learningbased-anomaly-detection-functions-in-azure-stream-analytics-general-availability/
+
+Easily add anomaly detection capabilities to your Stream Analytics jobs without the requirement to develop and train your own machine learning models. Ready-to-use unsupervised learning ML models are provided within the SQL language. This reduces the cost and complexity associated with building and training ML models to a simple single function call.
+
 ## Thanks
 Produced by Emily Mackmiller
 
