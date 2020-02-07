@@ -25,8 +25,8 @@ namespace produce
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
 
             /////////////////////////////////////////////////////////////////////////////////////////
-            ShowNumberInt = ;
-            ShowDate = DateTime.Parse("");
+            ShowNumberInt = 85;
+            ShowDate = DateTime.Parse("2/07/2020");
             /////////////////////////////////////////////////////////////////////////////////////////
             
             ShowNumberString = String.Concat((ShowNumberInt.ToString().Length < 3 ? "0" : ""), ShowNumberInt.ToString());

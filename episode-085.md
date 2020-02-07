@@ -1,7 +1,7 @@
 # Azure Flash News Episode #85
  - 02/04/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lcPHrKhk_DE/0.jpg)](https://youtu.be/lcPHrKhk_DE "Azure Flash News: Episode 85")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/DxELXDHTo8o/0.jpg)](https://youtu.be/DxELXDHTo8o "Azure Flash News: Episode 85")
 
 
 ## Contacts
