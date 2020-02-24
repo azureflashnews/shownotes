@@ -1,4 +1,4 @@
-# Azure Flash News Episode #86 - 02/14/2020
+# Azure Flash News Episode #86 - 02/24/2020
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/DxELXDHTo8o/0.jpg)](https://youtu.be/DxELXDHTo8o "Azure Flash News: Episode 86")
 
@@ -6,7 +6,6 @@
 ## Contacts
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
-* Tim Sullivan email: tisulliv@microsoft.com twitter [@SullivanTim]https://twitter.com/SullivanTim)
 * website: [www.azureflashnews.com](http://www.azureflashnews.com)
 * twitter: [@azureflashnews](https://www.twitter.com/azureflashnews)
 * iTunes: [aka.ms/afn-iTunes](https://aka.ms/afn-iTunes)
@@ -42,14 +41,11 @@ https://azure.microsoft.com/en-us/blog/backup-explorer-now-available-in-preview/
 
 Today, we are pleased to share the preview of Backup Explorer. Backup Explorer is a built-in Azure Monitor Workbook enabling you to have a single pane of glass for performing real-time monitoring across your entire backup estate on Azure. It comes completely out-of-the-box, with no additional costs, via native integration with Azure Resource Graph and Azure Workbooks.
 
-## SQL Server runs best on Azure. Here’s why.
+## Preview of Active Directory authentication support on Azure Files
 
-https://azure.microsoft.com/en-us/blog/sql-server-runs-best-on-azure-heres-why/
+https://azure.microsoft.com/en-us/blog/preview-of-active-directory-for-authentication-on-azure-file/
 
-SQL Server customers migrating their databases to the cloud have multiple choices for their cloud destination. To thoroughly assess which cloud is best for SQL Server workloads, two key factors to consider are:
-
-Innovations that the cloud provider can uniquely provide.
-Independent benchmark results.
+We are excited to announce the preview of Azure Files Active Directory (AD) authentication. You can now mount your Azure Files using AD credentials with the exact same access control experience as on-premises. You may leverage an Active Directory domain service (AD DS) either hosted on-premises or on Azure for authenticating user access to Azure Files for both premium and standard tiers. Managing file permissions is also simple. As long as your Active Directory identities are synced to Azure AD, you can continue to manage the share level permission through standard role-based access control (RBAC). For directory and file level permission, you simply configure Windows ACLs (NTFS DACLs) using Windows File Explorer just like any regular file share. Most of you may have already synced on-premises Active Directory to Azure AD as part of Office 365 or Azure adoption and are ready to take advantage of this new capability today.
 
 ## Azure Key Vault—Private endpoints now available in preview
 
