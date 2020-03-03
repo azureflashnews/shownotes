@@ -1,6 +1,6 @@
 # Azure Flash News Episode #86 - 02/24/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/DxELXDHTo8o/0.jpg)](https://youtu.be/DxELXDHTo8o "Azure Flash News: Episode 86")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/mBnN9P0Mb78/0.jpg)](https://youtu.be/mBnN9P0Mb78 "Azure Flash News: Episode 86")
 
 
 ## Contacts

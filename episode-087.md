@@ -1,6 +1,6 @@
 # Azure Flash News Episode #87 - 03/02/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/DxELXDHTo8o/0.jpg)](https://youtu.be/DxELXDHTo8o "Azure Flash News: Episode 87")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vieN30WfGWVu4/0.jpg)](https://youtu.be/eN30WfGWVu4 "Azure Flash News: Episode 87")
 
 
 ## Contacts
