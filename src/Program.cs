@@ -27,6 +27,7 @@ namespace produce
             /////////////////////////////////////////////////////////////////////////////////////////
             ShowNumberInt = 87;
             ShowDate = DateTime.Parse("3/01/2020");
+            // CHECK TO SEE THE PUB DATE IS RIGHT BEFORE STORING.  I JUST CHANGED IT~!!!!!!!!!!!!!!!!!!!!!
             // don't forget to update the episode notes with the video link
             // don't forget to update joinafn to the latest episode
             /////////////////////////////////////////////////////////////////////////////////////////
@@ -74,7 +75,9 @@ namespace produce
             item.EnclosureType = "audio/x-m4a";
             item.EnclosureURL = "http://affinvitestorage.blob.core.windows.net/episodes/AFN-" + ShowNumberString + ".m4a";
             item.GUID = "http://affinvitestorage.blob.core.windows.net/episodes/AFN-" + ShowNumberString + ".m4a";
-            item.PubDate = ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString() + "T12:30:00.0000000Z";
+            //item.PubDate = ShowDate.Year.ToString() + "-" + ShowDate.Month.ToString() + "-" + ShowDate.Day.ToString() + "T12:30:00.0000000Z";
+            // i decided I want it to publish as of now, not as of the show date.  There can be a lag and i still want the show to come up at the top
+            item.PubDate =  DateTime.UtcNow.ToShortDateString() + " " + DateTime.UtcNow.ToShortTimeString();
             item.Title = "AFN: " + ShowDate.ToShortDateString();
             item.Type = "item";
             item.iTunesDuration = duration;
