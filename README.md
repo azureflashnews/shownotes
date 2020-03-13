@@ -15,6 +15,15 @@ Azure Flash News has been named one of the top 10 Azure Podcasts by Feedspot!  (
 * Google Play: [aka.ms/afn-google](https://aka.ms/afn-google)
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 
+## Episode 88
+Shownotes can be found [here](episode-088.md).
+
+## Episode 87
+Shownotes can be found [here](episode-087.md).
+
+## Episode 86
+Shownotes can be found [here](episode-086.md).
+
 ## Episode 85
 Shownotes can be found [here](episode-085.md).
 
