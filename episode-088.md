@@ -1,6 +1,6 @@
 # Azure Flash News Episode #88 - 03/13/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/eN30WfGWVu4/0.jpg)](https://youtu.be/eN30WfGWVu4 "Azure Flash News: Episode 88")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lBtl9pvKteM/0.jpg)](https://youtu.be/lBtl9pvKteM "Azure Flash News: Episode 88")
 
 
 ## Contacts
