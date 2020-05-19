@@ -1,6 +1,6 @@
 # Azure Flash News Episode #89 - 05/17/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lBtl9pvKteM/0.jpg)](https://youtu.be/lBtl9pvKteM "Azure Flash News: Episode 89")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/dXW8wo00IHg/0.jpg)](https://youtu.be/dXW8wo00IHg "Azure Flash News: Episode 89")
 
 ## Contacts
 
