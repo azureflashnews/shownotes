@@ -25,9 +25,9 @@ namespace produce
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
 
             /////////////////////////////////////////////////////////////////////////////////////////
-            ShowNumberInt = 87;
-            ShowDate = DateTime.Parse("3/01/2020");
-            // CHECK TO SEE THE PUB DATE IS RIGHT BEFORE STORING.  I JUST CHANGED IT~!!!!!!!!!!!!!!!!!!!!!
+            ShowNumberInt = 89;
+            ShowDate = DateTime.Parse("5/18/2020");
+            // CHECK TO SEE THE PUB DATE IS RIGHT BEFORE STORING.  I JUST CHANGED IT!!!!!!!!!!!!!!!!!!!!!
             // don't forget to update the episode notes with the video link
             // don't forget to update joinafn to the latest episode
             /////////////////////////////////////////////////////////////////////////////////////////
