@@ -1,4 +1,4 @@
-# Azure Flash News Episode #90 - 06/17/2020
+# Azure Flash News Episode #90 - 06/23/2020
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lBtl9pvKteM/0.jpg)](https://youtu.be/lBtl9pvKteM "Azure Flash News: Episode 90")
 
