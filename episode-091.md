@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # Azure Flash News Episode #91 - 07/16/2020
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lBtl9pvKteM/0.jpg)](https://youtu.be/lBtl9pvKteM "Azure Flash News: Episode 91")
+=======
+# Azure Flash News Episode #90 - 07/01/2020
+
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/qZAKgWMxQng_M/0.jpg)](https://youtu.beqZAKgWMxQng_M "Azure Flash News: Episode 91")
+>>>>>>> 3f2d5b16e93e980deb8ad408a4662942d795f1d0
 
 ## Contacts
 
@@ -13,6 +19,7 @@
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 * Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
+<<<<<<< HEAD
 ## Run high scale workloads on Blob storage with new 200 TB object sizes
 
 https://azure.microsoft.com/en-us/blog/run-high-scale-workloads-on-blob-storage-with-new-200-tb-object-sizes/
@@ -51,3 +58,24 @@ We recently announced the general availability of automatic image-based upgrades
 Produced by Emily Mackmiller
 
 MTC Facility
+=======
+## Enable remote work faster with new Windows Virtual Desktop capabilities
+
+https://azure.microsoft.com/en-us/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/
+ 
+## Use Azure Firewall for secure and cost-effective Windows Virtual Desktop protection
+
+https://azure.microsoft.com/en-us/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/
+ 
+## Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview
+
+https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview
+ 
+## Microsoft announces next evolution of Azure VMware Solution
+
+https://azure.microsoft.com/en-us/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/
+
+## Azure Dedicated Host: New capabilities and benefits
+
+https://azure.microsoft.com/en-us/blog/azure-dedicated-host-new-capabilities-and-benefits/
+>>>>>>> 3f2d5b16e93e980deb8ad408a4662942d795f1d0

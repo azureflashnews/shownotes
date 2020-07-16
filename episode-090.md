@@ -1,6 +1,6 @@
 # Azure Flash News Episode #90 - 06/23/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/lBtl9pvKteM/0.jpg)](https://youtu.be/lBtl9pvKteM "Azure Flash News: Episode 90")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/sfFt9FGO6_M/0.jpg)](https://youtu.be/sfFt9FGO6_M "Azure Flash News: Episode 90")
 
 ## Contacts
 
@@ -39,8 +39,10 @@ Now more than ever, developers need agility to meet rapidly increasing demands f
 
 With this in mind, we announced a new partnership earlier today between Microsoft and Docker to integrate Docker Desktop more closely with Microsoft Azure and the Visual Studio line of products.  
 
-## Thanks
+## Simplifying declarative deployments in Azure
 
-Produced by Emily Mackmiller
+https://azure.microsoft.com/en-us/blog/simplifying-declarative-deployments-in-azure/
 
-MTC Facility
+Azure provides customers a simple and intuitive way to declaratively provision and manage infrastructure through Azure Resource Manager (ARM) templates. You can describe your entire Azure environment using template language, and then use your favorite CI/CD or scripting tool to stand up this environment in minutes. The ARM template language takes the form of JSON and is a direct representation of the resource schema. Which means you can create any Azure resource using an ARM Template from day one and configure any setting on the resources. Using ARM templates, you can describe the resources needed to make up the environment in a declarative, parameterized fashion. Because the ARM templates are declarative, you need only specify what you want, and Azure Resource Manager will figure out the rest.
+
+Over the last couple of months, we have renewed our focus in ARM template deployments with a focus on addressing some of the key challenges shared by our customers. Today, we’re sharing some of the investments we’ve made to address some of these challenges.
