@@ -13,25 +13,21 @@
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 * Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
-## Enable remote work faster with new Windows Virtual Desktop capabilities
+## Azure Files AD auth GA 
 
-https://azure.microsoft.com/en-us/blog/enable-remote-work-faster-with-new-windows-virtual-desktop-capabilities/
+https://azure.microsoft.com/en-us/blog/general-availability-of-azure-files-onpremises-active-directory-domain-services-authentication/ 
 
-## Use Azure Firewall for secure and cost-effective Windows Virtual Desktop protection
+## Azure Files share snapshot management by Azure Backup is now generally available 
 
-https://azure.microsoft.com/en-us/blog/use-azure-firewall-for-secure-and-cost-effective-windows-virtual-desktop-protection/
+https://azure.microsoft.com/en-us/blog/azure-files-share-snapshot-management-by-azure-backup-is-now-generally-available/ 
 
-## Windows Virtual Desktop media optimization for Microsoft Teams is now available in preview
+## Manage and find data with Blob Index for Azure Storage—now in preview 
 
-https://azure.microsoft.com/en-us/updates/windows-virtual-desktop-media-optimization-for-microsoft-teams-is-now-available-in-public-preview
+https://azure.microsoft.com/en-us/blog/manage-and-find-data-with-blob-index-for-azure-storage-now-in-preview/ 
 
-## Microsoft announces next evolution of Azure VMware Solution
+## Enhanced features in Azure Archive Storage now generally available 
 
-https://azure.microsoft.com/en-us/blog/microsoft-announces-next-evolution-of-azure-vmware-solution/
-
-## Azure Dedicated Host: New capabilities and benefits
-
-https://azure.microsoft.com/en-us/blog/azure-dedicated-host-new-capabilities-and-benefits/
+https://azure.microsoft.com/en-us/blog/enhanced-features-in-azure-archive-storage-now-generally-available/ 
 
 ## Azure Files support and new updates in advanced threat protection for Azure Storage
 
