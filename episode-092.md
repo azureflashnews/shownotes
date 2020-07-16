@@ -32,3 +32,7 @@ https://azure.microsoft.com/en-us/blog/microsoft-announces-next-evolution-of-azu
 ## Azure Dedicated Host: New capabilities and benefits
 
 https://azure.microsoft.com/en-us/blog/azure-dedicated-host-new-capabilities-and-benefits/
+
+## Azure Files support and new updates in advanced threat protection for Azure Storage
+
+https://azure.microsoft.com/en-us/blog/azure-files-support-and-new-updates-in-advanced-threat-protection-for-azure-storage/
