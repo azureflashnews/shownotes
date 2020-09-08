@@ -25,4 +25,5 @@ https://azure.microsoft.com/en-us/blog/power-missioncritical-applications-with-a
 ## Build resilient applications with Kubernetes on Azure
 https://azure.microsoft.com/en-us/blog/build-resilient-applications-with-kubernetes-on-azure/
 
-
+## Simplify financial reporting with cost allocation—now in preview
+https://azure.microsoft.com/en-us/blog/simplify-financial-reporting-with-cost-allocation-now-in-preview/
