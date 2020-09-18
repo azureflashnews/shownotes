@@ -13,6 +13,9 @@
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 * Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
+## Azure Container Instances - Docker integration now in Docker Desktop stable release
+https://azure.microsoft.com/en-us/blog/azure-container-instances-docker-integration-now-in-docker-desktop-stable-release/
+
 ## Announcing Azure Bicep: A Domain Specific Language for Deploying Azure Resources
 https://github.com/Azure/bicep
 
