@@ -1,6 +1,6 @@
 # Azure Flash News Episode #97 - 09/25/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/TSp1GVRwdhM/0.jpg)](https://youtu.be/TSp1GVRwdhM "Azure Flash News: Episode 97")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/TjzwbIKTb9Y/0.jpg)](https://youtu.be/TjzwbIKTb9Y "Azure Flash News: Episode 97")
 
 ## Contacts
 
