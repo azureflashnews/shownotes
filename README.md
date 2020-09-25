@@ -10,6 +10,7 @@ Azure Flash News has been named one of the top 10 Azure Podcasts by Feedspot!  (
 * Rick Weyenberg  email: rickwey@microsoft.com twitter: [@codeboarder](https://www.twitter.com/codeboarder)
 * Mark Garner email: mgarner@microsoft.com twitter: [@mgarner](https://www.twitter.com/mgarner)
 * website: [www.azureflashnews.com](http://www.azureflashnews.com)
+* YouTube: [https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ/](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ/)
 * twitter: [@azureflashnews](https://www.twitter.com/azureflashnews)
 * iTunes: [aka.ms/afn-iTunes](https://aka.ms/afn-iTunes)
 * Google Play: [aka.ms/afn-google](https://aka.ms/afn-google)
