@@ -14,14 +14,14 @@
 * Stitcher: [aka.ms/afn-stitcher](https://aka.ms/afn-stitcher)
 * Youtube: [Azure Flash News Channel on YouTube](https://www.youtube.com/channel/UCV6U_D4q7OxQaf0rFfEb6fQ)
 
-## Compete. Learn. Win. Sign up for the Azure SQL Championship Today
-https://azure.microsoft.com/en-us/blog/compete-learn-win-sign-up-for-the-azure-sql-championship-today/
+## Introducing the Microsoft Azure Modular Datacenter
+https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-modular-datacenter/
 
-## Learn how the Azure nested edge securely unlocks value from manufacturing data
-https://azure.microsoft.com/en-us/blog/learn-how-the-azure-nested-edge-securely-unlocks-value-from-manufacturing-data/
+## Zone Redundancy for Azure Cache for Redis now in preview
+https://azure.microsoft.com/en-us/blog/zone-redundancy-for-azure-cache-for-redis-now-in-preview/
 
-## Three ways serverless APIs can accelerate enterprise innovation
-https://azure.microsoft.com/en-us/blog/three-ways-serverless-apis-can-accelerate-enterprise-innovation/
+## Azure and Intel commit to delivering next generation confidential computing
+https://azure.microsoft.com/en-us/blog/azure-and-intel-commit-to-delivering-next-generation-confidential-computing/
 
 ## Optimize your Azure workloads with Azure Advisor Score
 https://azure.microsoft.com/en-us/blog/optimize-your-azure-workloads-with-azure-advisor-score/
