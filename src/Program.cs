@@ -25,8 +25,8 @@ namespace produce
             RawFilePathAndName = "c:\\users\\mgarner\\downloads\\Recording.mp4";
 
             /////////////////////////////////////////////////////////////////////////////////////////
-            ShowNumberInt = 98;
-            ShowDate = DateTime.Parse("10/5/2020");
+            ShowNumberInt = 99;
+            ShowDate = DateTime.Parse("10/23/2020");
             // its OK TO PUT THE ACTUAL SHOW DATE.  IT PUTS THE PUBLISH DATE AS NOW.
             // CHECK TO SEE THE PUB DATE IS RIGHT BEFORE STORING.  I JUST CHANGED IT!!!!!!!!!!!!!!!!!!!!!
             // don't forget to update the episode notes with the video link
