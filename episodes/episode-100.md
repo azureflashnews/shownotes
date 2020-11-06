@@ -1,4 +1,4 @@
-# Azure Flash News Episode #100 - 10/30/2020
+# Azure Flash News Episode #100 - 11/06/2020
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/8XcnKesouP4/0.jpg)](https://youtu.be/8XcnKesouP4 "Azure Flash News: Episode 100")
 
