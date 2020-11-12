@@ -1,4 +1,4 @@
-# Azure Flash News Episode #100 - 11/06/2020
+# Azure Flash News Episode #100 - 11/12/2020
 
 [![Azure Flash News: Watch Episode](https://img.youtube.com/vi/8XcnKesouP4/0.jpg)](https://youtu.be/8XcnKesouP4 "Azure Flash News: Episode 100")
 
@@ -17,14 +17,11 @@
 ## Microsoft Cloud for Healthcare: Unlocking the power of health data for better care
 https://azure.microsoft.com/en-us/blog/microsoft-cloud-for-healthcare-unlocking-the-power-of-health-data-for-better-care/
 
-## Azure Cost Management and Billing updates – October 2020
-https://azure.microsoft.com/en-us/blog/azure-cost-management-billing-updates-october-2020/
+## New enhanced DNS features in Azure Firewall—now generally available
+https://azure.microsoft.com/en-us/blog/new-enhanced-dns-features-in-azure-firewall-now-generally-available/
 
-## Microsoft unlocks the full potential of the smart building ecosystem
-https://azure.microsoft.com/en-us/blog/microsoft-unlocks-the-full-potential-of-the-smart-building-ecosystem/
+## Advancing global network reliability through intelligent software—part 1 of 2
+https://azure.microsoft.com/en-us/blog/advancing-global-network-reliability-through-intelligent-software-part-1-of-2/
 
-## World Cities Day 2020: Committing to sustainable urban environments
-https://azure.microsoft.com/en-us/blog/world-cities-day-2020-committing-to-sustainable-urban-environments/
-
-## Quickly get started with samples in Azure Synapse Analytics
-https://azure.microsoft.com/en-us/blog/quickly-get-started-with-samples-in-azure-synapse-analytics/
+## At-scale migration automation support with Azure Migrate and Azure PowerShell
+https://azure.microsoft.com/en-us/blog/atscale-migration-automation-support-with-azure-migrate-and-azure-powershell/
