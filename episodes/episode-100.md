@@ -1,6 +1,6 @@
 # Azure Flash News Episode #100 - 11/18/2020
 
-[![Azure Flash News: Watch Episode](https://img.youtube.com/vi/8XcnKesouP4/0.jpg)](https://youtu.be/8XcnKesouP4 "Azure Flash News: Episode 100")
+[![Azure Flash News: Watch Episode](https://img.youtube.com/viERrEqcb9fiM/0.jpg)](https://youtu.beERrEqcb9fiM "Azure Flash News: Episode 100")
 
 ## Contacts
 
