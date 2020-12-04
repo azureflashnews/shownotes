@@ -24,6 +24,6 @@ https://azure.microsoft.com/en-us/services/purview/
 ## Hybrid and multicloud strategies for financial services organizations
 https://azure.microsoft.com/en-us/blog/hybrid-and-multicloud-strategies-for-financial-services-organizations/
 
-## Chat with the Exert
+## Chat with the Expert
 Abraham Pabbathi will chat with us about who/what/wehere/when/why you should register your IaaS Sql Server resources
 
