@@ -26,4 +26,5 @@ https://azure.microsoft.com/en-us/blog/hybrid-and-multicloud-strategies-for-fina
 
 ## Chat with the Expert
 Abraham Pabbathi will chat with us about who/what/wehere/when/why you should register your IaaS Sql Server resources
-
+Email: Abraham.Pabbathi@microsoft.com
+LinkedIn: https://www.linkedin.com/in/abepabbathi/
